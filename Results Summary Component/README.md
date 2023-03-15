@@ -10,10 +10,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
-  - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
-
 
 ## Overview
 
@@ -30,7 +28,6 @@ Mobile View Screenshot
 
 ![](./screenshot.jpg)
 
-
 Desktop View Screenshot
 ![](./screenshot.jpg)
 
@@ -38,8 +35,6 @@ Desktop View Screenshot
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
@@ -49,7 +44,6 @@ Desktop View Screenshot
 - Pinia
 - Mobile-first workflow
 - [Vuejs](https://vuejs.org/) - JS framework
-
 
 ## Author
 
